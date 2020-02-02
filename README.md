@@ -1,1 +1,3 @@
-# hellowoldannik
+# maven-project
+
+Simple Maven Project
